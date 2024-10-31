@@ -1,0 +1,42 @@
+/* ------------------------------------------ plugins_page_ninecarrots-location-config ------------------------------------------ */
+.plugins_page_ninecarrots-location-config #wpbody-content #ninecarrots_wrap {
+    max-width:700px;
+}
+.plugins_page_ninecarrots-location-config #ninecarrots_wrap .hide {display:none;}
+.plugins_page_ninecarrots-location-config #ninecarrots_wrap .disabled {color:#888888;}
+.plugins_page_ninecarrots-location-config #ninecarrots_wrap #disclaimer {
+    padding-left:10px;
+    font-size:11px;
+    color:#666666;
+    border-top:1px dotted #888888;
+}
+.plugins_page_ninecarrots-location-config #ninecarrots_wrap #actions {
+    margin-left:10px;
+}
+.plugins_page_ninecarrots-location-config #ninecarrots_wrap #actions li {
+    margin:0px;
+}
+.plugins_page_ninecarrots-location-config #wpbody-content #form_path {
+    width:100%;
+}
+.plugins_page_ninecarrots-location-config #wpbody-content form,
+.plugins_page_ninecarrots-location-config #wpbody-content .form_inline {
+    display:inline;
+}
+.plugins_page_ninecarrots-location-config #wpbody-content .large_input {
+    width:250px;
+}
+.plugins_page_ninecarrots-location-config #wpbody-content #ninecarrots_logo {
+    float:left;
+    margin-right:10px;
+}
+.plugins_page_ninecarrots-location-config #wpbody-content h2 {
+    font: italic 24px/35px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    font-size: 1.8em;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+.plugins_page_ninecarrots-location-config #wpbody-content .form_location_type_desc {
+    display:block;
+    margin-left:20px;
+}
+  
